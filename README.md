@@ -28,12 +28,11 @@ Advanced error/logic checking,
 Dynamic help/tooltips,
 Multi nodes combining Scene, Show and Dialog,
 Language selection
-Planned features for the Ren'Py Maker Pro version:
 Export all to Ren'Py project option,
 Image library for inventory (Drag & Drop),
 Daz3D and Unity scene creator,
 Full GUI customization,
-Convert Ren'Py script to Ren'Py Maker graph,
+Convert Ren'Py script to a Digital Novel Studio graph,
 Library of routines for common transitions and effects
 
 
